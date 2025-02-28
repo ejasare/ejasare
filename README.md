@@ -74,7 +74,7 @@ how we can collaborate to solve meaningful problems with data.
 
 - <a href="https://credentials.corporatefinanceinstitute.com/a671c572-f8fc-45cf-bcd2-7088f7a54f1f#acc.3pYRtJkb"> Business
   Intelligence & Data Analyst (BIDA®) by Corporate Finance Institute (CFI) </a><br>
-  <img src="./Image/Certificate 1 (3).png3 alt="" srcset="">
+  <img src="./Image/Certificate 1 (3).png" alt="" srcset="">
   This certification demonstrates completion of CFI's Business Intelligence and Data Analysis® program. To achieve this
   certification, participants must complete 14 core courses and 3 elective courses on topics of business intelligence and
   data science. In total, this represents over 100 hours of coursework. In addition, learners pass a timed exam that

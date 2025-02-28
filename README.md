@@ -11,11 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=horaceBBK&style=flat-square&color=blue" alt="my profile view counter" />
 </div>
 <br>
-<p align="center">📍Accra <br> <br> I'm <b>Eric Asare.</b> <b> A Data Analytics</b> <br></p>
-
-# ✍️ About Me:
-
-### <img alt="GIF" src="./Image/statistics.gif" width="25px"> My Journey into Data Analytics:
+<p align="cen<p align="center">📍Accra <br> <br> I'm <b>Eric Asare.</b> <b> A Data Analytics</b> <br></p>
+img alt="GIF" src="./Image/statistics.gif" width="25px"> My Journey into Data Analytics:
 
 Starting in accounting and auditing, I managed over 10 audit projects simultaneously, achieving a 100% on-time
 completion rate and improving efficiency by 15%. While analyzing financial data, I realized the immense potential of
@@ -28,43 +25,37 @@ Currently pursuing my Master’s in Business Analytics at Iowa State University,
 Tableau, Power BI, AWS, and Google Cloud. At Agrocenta Technologies, I designed 15 real-time dashboards, boosting
 operational efficiency and playing a pivotal role in securing $1.2M in funding.
 
-### <img align="center" width="20"
-
-src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Key
-Achievements:
+### <img align="center" width="20" src="https://cdn.dribbble.com/users/947331/screenshots/4312565/media/462840b6d987813edfa483bb69bb0470.gif" /> Key Achievements:
 
 Improved operational efficiency by 10% through data-driven insights. Developed dashboards enabling strategic
 decision-making at the executive level. Provided actionable financial recommendations, optimizing resource allocation.
 
-### <img align="center" width="20"
-
-src="https://gist.githubusercontent.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac/raw/1bb6af139c1c06c85a2b8a2f5858275a73cf75ac/robotics.gif" />
-What Drives Me:
+### <img align="center" width="20" src="https://gist.githubusercontent.com/albertcodes/b79c793ad64557e5feef84b80cf4f3ac/raw/1bb6af139c1c06c85a2b8a2f5858275a73cf75ac/robotics.gif" /> What Drives Me:
 
 I’m passionate about uncovering stories hidden within data. My short term goal is to deepen my expertise in analytics
 and data engineering, while my long-term ambition is to establish a data solutions startup in Ghana to empower
 businesses with scalable and impactful insights.
 
-Technical Skills and Strengths:
+      Technical Skills and Strengths:
 
-- Python
-- R
-- SQL
-- Tableau
-- Power BI
-- AWS
-- Google Cloud
+      - Python
+      - R
+      - SQL
+      - Tableau
+      - Power BI
+      - AWS
+      - Google Cloud
 
-Functional Skills and Strengths:
+      Functional Skills and Strengths:
 
-- Financial analysis
-- statistical modeling
-- data visualization
-- and KPI development
+      - Financial analysis
+      - statistical modeling
+      - data visualization
+      - and KPI development
 
-Problem-Solving:
+      Problem-Solving:
 
-- Turning complex data into actionable strategies.
+      - Turning complex data into actionable strategies.
 
 ### Why I Love What I Do:
 
@@ -83,7 +74,7 @@ how we can collaborate to solve meaningful problems with data.
 
 - <a href="https://credentials.corporatefinanceinstitute.com/a671c572-f8fc-45cf-bcd2-7088f7a54f1f#acc.3pYRtJkb"> Business
   Intelligence & Data Analyst (BIDA®) by Corporate Finance Institute (CFI) </a><br>
-  <img src="./Image/Certificate 1 (3).png" alt="" srcset="">
+  <img src="./Image/Certificate 1 (3).png3 alt="" srcset="">
   This certification demonstrates completion of CFI's Business Intelligence and Data Analysis® program. To achieve this
   certification, participants must complete 14 core courses and 3 elective courses on topics of business intelligence and
   data science. In total, this represents over 100 hours of coursework. In addition, learners pass a timed exam that
@@ -152,7 +143,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
 
 </p><br>
 
-<p align="center">
+<p align = "center">
   <kbd>
     <kbd>Tools</kbd>
     <br>
@@ -170,7 +161,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="45px" src="./Image/34_STORYBOOK.png" />
     <img width="60px" src="./Image/45_BIS_SLACK.png" />
     <img width="45px" src="./Image/45_JIRA.png" />
-    <br></br>
+    <br></br> 
     <img width="50px" src="./Image/46_NOTION.png" />
     <img width="45px" src="./Image/52_TRELLO.png" />
     <img width="60px" src="./Image/53_NETLIFY.png" />
@@ -221,7 +212,7 @@ P.S. I've been around the world and I'm preparing another one if anyone wants to
     <img width="60px" src="./Image/13_PYTHON_ANYWHERE.jfif" />
     <img width="60px" src="./Image/14_ANACONDA.png" />
   </kbd>
-</p><br><br>
+  </p><br><br>
 
 <!-- Profile Statistics -->
 <summary align="center">

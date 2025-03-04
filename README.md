@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header" />
 <div align="center">
-  <a href="https://github.com/horaceBBK"><img
+  <a href="https://github.com/ejasare"><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Eric+Asare."
       alt="Typing SVG" /></a>
 </div> <br><br>
@@ -8,10 +8,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=horaceBBK&style=flat-square&color=blue" alt="my profile view counter" />
+  <img src="https://komarev.com/ghpvc/?username=ejasare&style=flat-square&color=blue" alt="my profile view counter" />
 </div>
 <br>
-<p align="center">📍Accra <br> <br> I'm <b>Eric Asare.</b> <b> A Data Analytics</b> <br></p>
+<p align="center">📍Accra <br> <br> I'm <b>EricAsare</b>, A <b> Data Analyst</b> <br></p>
 
 ### <img alt="GIF" src="./Image/statistics.gif" width="25px">My Journey into Data Analytics:
 
@@ -58,33 +58,38 @@ businesses with scalable and impactful insights.
 
       - Turning complex data into actionable strategies.
 
-### 🧠Why I Love What I Do:
+## 🧠 Why I Love What I Do:
 
 I thrive on creating clarity from complexity, whether it’s through insightful dashboards or impactful analyses. A
 highlight of my journey was streamlining performance tracking at Agrocenta, directly enhancing decision-making and
 operational outcomes. Beyond Work: I enjoy building intricate LEGO models and mentoring others, blending creativity with
 problem-solving. Teaching and helping students appreciate data’s power are fulfilling parts of my life.
 
-### 🧩Fun Fact:
+## 🧩 Fun Fact:
 
-My first Python script automated account reconciliation during my auditing days. It wasn’t perfect, but it sparked my
-love for automation and marked the start of my data journey. If my story resonates with you, let’s connect and explore
-how we can collaborate to solve meaningful problems with data.
+My first Python script automated account reconciliation during my auditing days. It wasn’t perfect, but it sparked my love for automation and marked the start of my data journey. If my story resonates with you, let’s connect and explore how we can collaborate to solve meaningful problems with data.
 
 ## <img align="center" width="50" src="./Image/ai.gif" />Projects:
 
-- ANOMALY DETECTION IN METER READING FOR MIDAMERICAN ENERGY DATASET
-    <p><strong>Bholla, G. S., Lee, H., Kamineni, C. T., & Asare, E. A. (2024).</strong> 
-        <i>Anomaly detection in meter reading for MidAmerican Energy dataset: A capstone project proposal.</i> 
-        College of Business, Iowa State University.</p>
+- <span style="color: #f0f0f0;">[ANOMALY](https://github.com/ejasare/Anomaly-Detection-in-Digital-Meters-MidAmerican-Energy-Master-s-Capstone-Project)</span> DETECTION IN METER READING FOR MIDAMERICAN ENERGY DATASET
 
-- Mastering bank churn prediction: Practical insights into preprocessing, model building, and predictive modeling.
+- <span style="color: #f0f0f0;">[Mastering](https://github.com/ejasare/Bank-Churn-Prediction-Using-ML)</span> bank churn prediction: Practical insights into preprocessing, model building, and predictive modeling.
 
-- Smarter lending decisions: ML-powered loan prediction.
+- <span style="color: #f0f0f0;">[Smarter](https://github.com/ejasare/Smarter-Lending-Decisions_-ML-powered-Loan-Prediction)</span> lending decisions: ML-powered loan prediction.
 
-- Movie recommendation system based on content & popularity.
+- <span style="color: #f0f0f0;">[Movie](https://github.com/ejasare/Movie-Recommendation-System-Based-On-Content-Popularity)</span> recommendation system based on content & popularity.
 
-- Iowa Liquor Sales Analysis
+- <span style="color: #f0f0f0;">[Iowa](https://github.com/ejasare/Iowa_Liquor_Sales_Analysis)</span> Liquor Sales Analysis
+
+- <span style="color: #f0f0f0;">[Ecommerce](https://github.com/ejasare/Ecommerce_Sales_Dashboard_using_Power_BI)\_Sales_Dashboard_using_Power_BI</span>
+
+- <span style="color: #f0f0f0;">[Customer](https://github.com/ejasare/Customer_Segmentation_Analysis)</span> Segmentation Analysis
+
+- <span style="color: #f0f0f0;">[Sales](https://github.com/ejasare/Sales_Marketing_Data_ROI_Analytics_using_Python)\_Marketing_Data_ROI_Analytics_using_Python</span>
+
+- <span style="color: #f0f0f0;">[Supply](https://github.com/ejasare/Supply_Chain_Optimization_Tool)\_Chain_Optimization_Tool</span>
+
+- <span style="color: #f0f0f0;">[Attribute](https://github.com/ejasare/Attribute_Based_Data_Quality_Assessment_Framework)\_Based_Data_Quality_Assessment_Framework</span>
 
 ## 📝 Professional Certifications
 
@@ -103,44 +108,43 @@ how we can collaborate to solve meaningful problems with data.
     Financial Modeling & Valuation Analyst (FMVA)® by Corporate Finance Institute (CFI) </a><br>
 
   <img src="./Image/Certificate 1 (1).png" alt="" srcset="">
-  The CFI Financial Modeling and Valuation Program covers a critical body of knowledge necessary for becoming a
-  world-class financial analyst. The core curriculum for the program includes:
+  The CFI Financial Modeling and Valuation Program covers a critical body of knowledge necessary for becoming a world-class financial analyst. The core curriculum for the program includes:
 
-  #### Financial Modeling
+  - #### Financial Modeling
 
-  - Develop industry-leading best practices for layout, design and structure of models
-  - Learn how to build a dynamically linked 3-statement model in Excel from scratch
-  - Create a multi-year forecast to project the income statement, cash flow and balance sheet into the future
-  - Use advanced Excel formulas and functions to make models both robust and dynamic
-  - Perform scenario analysis, sensitivity analysis, accretion/dilution analysis and other advanced modeling practices
-  - Learn how to build models that are well designed, intelligently structured, and easy for other users to work with
+    - Develop industry-leading best practices for layout, design and structure of models
+    - Learn how to build a dynamically linked 3-statement model in Excel from scratch
+    - Create a multi-year forecast to project the income statement, cash flow and balance sheet into the future
+    - Use advanced Excel formulas and functions to make models both robust and dynamic
+    - Perform scenario analysis, sensitivity analysis, accretion/dilution analysis and other advanced modeling practices
+    - Learn how to build models that are well designed, intelligently structured, and easy for other users to work with
 
-  #### Valuation
+  - #### Valuation
 
-  - Learn how to value a company using comparable company analysis, precedent transactions, and discounted cash flow DCF
-    modeling
-  - Build numerous DCF model from scratch in Excel and learn how to calculate a firm’s weighted average cost of capital
-  - Understand how and when to use Enterprise Value and Equity Value multiples for valuation
-  - Learn about the pros and cons of different valuation methods, and become proficient in all of them
-  - Arrive at a range of values for a business combining multiple methods
+    - Learn how to value a company using comparable company analysis, precedent transactions, and discounted cash flow DCF
+      modeling
+    - Build numerous DCF model from scratch in Excel and learn how to calculate a firm’s weighted average cost of capital
+    - Understand how and when to use Enterprise Value and Equity Value multiples for valuation
+    - Learn about the pros and cons of different valuation methods, and become proficient in all of them
+    - Arrive at a range of values for a business combining multiple methods
 
-  #### Financial Analysis
+  - #### Financial Analysis
 
-  - Learn advanced forms of financial analysis including ratios, rates of return, risk assessment, credit metrics, debt
-    schedules, cash flow waterfalls and more
-  - Assess the overall attractiveness of investment opportunities using financial models, scenarios, and multiple types of
-    analysis
-  - Develop insightful and charts and graphs for PowerPoint presentations
-  - Build Excel dashboards and use advanced data visualization techniques
-  - Go beyond the financial model to truly understand the risks and opportunities of an investment opportunity
+    - Learn advanced forms of financial analysis including ratios, rates of return, risk assessment, credit metrics, debt
+      schedules, cash flow waterfalls and more
+    - Assess the overall attractiveness of investment opportunities using financial models, scenarios, and multiple types of
+      analysis
+    - Develop insightful and charts and graphs for PowerPoint presentations
+    - Build Excel dashboards and use advanced data visualization techniques
+    - Go beyond the financial model to truly understand the risks and opportunities of an investment opportunity
 
-  #### Presentations
+  - #### Presentations
 
-  - Learn to create beautiful charts, graphs and tables in Excel
-  - Build professional PowerPoint presentations and pitch decks
-  - Create insightful dashboards and outputs for presentations
-  - Learn how to use data visualization to get your point across
-  - Impress executives and leadership teams with deep insights and impactful presentations
+    - Learn to create beautiful charts, graphs and tables in Excel
+    - Build professional PowerPoint presentations and pitch decks
+    - Create insightful dashboards and outputs for presentations
+    - Learn how to use data visualization to get your point across
+    - Impress executives and leadership teams with deep insights and impactful presentations
 
 - <a href="https://intranet.alxswe.com/certificates/YCE63nzmFc">Data Analytics Cerrtification by ALX </a>
 
@@ -156,7 +160,7 @@ how we can collaborate to solve meaningful problems with data.
       src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ejasare"><img
       src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://github.com/horaceBBK"><img
+  <a href="https://github.com/ejasare"><img
       src="https://img.shields.io/badge/-Github-E1306C?style=flat&logo=Github&logoColor=white" /></a>
 
 </p><br>
@@ -238,31 +242,32 @@ how we can collaborate to solve meaningful problems with data.
 </summary>
 <div align="center">
   <img height="192px" alt="Eric's Top Languages GitHub"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaceBBK&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejasare&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"
     weight=41% height="192px" />
+</div>
+<div align="center">
   <img height="192px"
-    src="https://github-readme-stats.vercel.app/api?username=horaceBBK&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" />
+    src="https://github-readme-stats.vercel.app/api?username=ejasare&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/horaceBBK">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=horaceBBK&theme=dracula"
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ejasare&theme=dracula"
       height="192px" width="49.5%">
-  </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=horaceBBK&theme=onedark)](https://github.com/horaceBBK)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ejasare&theme=onedark)]
 
 <!-- Contribution Graph -->
 
-<a href="https://github.com/horaceBBK"><img alt="Eric's Activity Graph"
-    src="https://github-readme-activity-graph.vercel.app/graph/?username=horaceBBK&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+<img alt="Eric's Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph/?username=ejasare&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 
 <!-- Have a good day -->
 
-<a href="https://git.io/typing-svg"><img
+<div align="center">
+<img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!"
-    alt="Typing SVG" /></a>
+    alt="Typing SVG" />
 
 </div>
 

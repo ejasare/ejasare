@@ -12,6 +12,7 @@
 </div>
 <br>
 <p align="center">📍Accra <br> <br> I'm <b>Eric Asare.</b> <b> A Data Analytics</b> <br></p>
+
 ### <img alt="GIF" src="./Image/statistics.gif" width="25px">My Journey into Data Analytics:
 
 Starting in accounting and auditing, I managed over 10 audit projects simultaneously, achieving a 100% on-time

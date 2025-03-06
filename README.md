@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=horaceBBK&style=flat-square&color=blue" alt="my profile view counter" />
 </div>
 <br>
-<p align="center">📍Maryland, USA <br> <br> I'm <b>Eric Asare.</b> <b> A Data Analytics</b> <br></p>
+<p align="center">📍Accra <br> <br> I'm <b>Eric Asare.</b> <b> A Data Analytics</b> <br></p>
 
 # ✍️ About Me:
 

@@ -58,7 +58,7 @@ businesses with scalable and impactful insights.
 
       - Turning complex data into actionable strategies.
 
-### Why I Love What I Do:
+### 🧠Why I Love What I Do:
 
 I thrive on creating clarity from complexity, whether it’s through insightful dashboards or impactful analyses. A
 highlight of my journey was streamlining performance tracking at Agrocenta, directly enhancing decision-making and
@@ -71,10 +71,26 @@ My first Python script automated account reconciliation during my auditing days.
 love for automation and marked the start of my data journey. If my story resonates with you, let’s connect and explore
 how we can collaborate to solve meaningful problems with data.
 
+## <img align="center" width="50" src="./Image/ai.gif" />Projects:
+
+- ANOMALY DETECTION IN METER READING FOR MIDAMERICAN ENERGY DATASET
+    <p><strong>Bholla, G. S., Lee, H., Kamineni, C. T., & Asare, E. A. (2024).</strong> 
+        <i>Anomaly detection in meter reading for MidAmerican Energy dataset: A capstone project proposal.</i> 
+        College of Business, Iowa State University.</p>
+
+- Mastering bank churn prediction: Practical insights into preprocessing, model building, and predictive modeling.
+
+- Smarter lending decisions: ML-powered loan prediction.
+
+- Movie recommendation system based on content & popularity.
+
+- Iowa Liquor Sales Analysis
+
 ## 📝 Professional Certifications
 
 - <a href="https://credentials.corporatefinanceinstitute.com/a671c572-f8fc-45cf-bcd2-7088f7a54f1f#acc.3pYRtJkb"> Business
   Intelligence & Data Analyst (BIDA®) by Corporate Finance Institute (CFI) </a><br>
+
   <img src="./Image/Certificate 1 (3).png" alt="" srcset="">
   This certification demonstrates completion of CFI's Business Intelligence and Data Analysis® program. To achieve this
   certification, participants must complete 14 core courses and 3 elective courses on topics of business intelligence and
@@ -85,52 +101,53 @@ how we can collaborate to solve meaningful problems with data.
 
 - <a href="https://credentials.corporatefinanceinstitute.com/8137c7e9-820a-4606-8384-2dcf7a3b03bd#acc.OLxNYmbG">
     Financial Modeling & Valuation Analyst (FMVA)® by Corporate Finance Institute (CFI) </a><br>
+
   <img src="./Image/Certificate 1 (1).png" alt="" srcset="">
   The CFI Financial Modeling and Valuation Program covers a critical body of knowledge necessary for becoming a
   world-class financial analyst. The core curriculum for the program includes:
 
-### Financial Modeling
+  #### Financial Modeling
 
-- Develop industry-leading best practices for layout, design and structure of models
-- Learn how to build a dynamically linked 3-statement model in Excel from scratch
-- Create a multi-year forecast to project the income statement, cash flow and balance sheet into the future
-- Use advanced Excel formulas and functions to make models both robust and dynamic
-- Perform scenario analysis, sensitivity analysis, accretion/dilution analysis and other advanced modeling practices
-- Learn how to build models that are well designed, intelligently structured, and easy for other users to work with
+  - Develop industry-leading best practices for layout, design and structure of models
+  - Learn how to build a dynamically linked 3-statement model in Excel from scratch
+  - Create a multi-year forecast to project the income statement, cash flow and balance sheet into the future
+  - Use advanced Excel formulas and functions to make models both robust and dynamic
+  - Perform scenario analysis, sensitivity analysis, accretion/dilution analysis and other advanced modeling practices
+  - Learn how to build models that are well designed, intelligently structured, and easy for other users to work with
 
-### Valuation
+  #### Valuation
 
-- Learn how to value a company using comparable company analysis, precedent transactions, and discounted cash flow DCF
-  modeling
-- Build numerous DCF model from scratch in Excel and learn how to calculate a firm’s weighted average cost of capital
-- Understand how and when to use Enterprise Value and Equity Value multiples for valuation
-- Learn about the pros and cons of different valuation methods, and become proficient in all of them
-- Arrive at a range of values for a business combining multiple methods
+  - Learn how to value a company using comparable company analysis, precedent transactions, and discounted cash flow DCF
+    modeling
+  - Build numerous DCF model from scratch in Excel and learn how to calculate a firm’s weighted average cost of capital
+  - Understand how and when to use Enterprise Value and Equity Value multiples for valuation
+  - Learn about the pros and cons of different valuation methods, and become proficient in all of them
+  - Arrive at a range of values for a business combining multiple methods
 
-### Financial Analysis
+  #### Financial Analysis
 
-- Learn advanced forms of financial analysis including ratios, rates of return, risk assessment, credit metrics, debt
-  schedules, cash flow waterfalls and more
-- Assess the overall attractiveness of investment opportunities using financial models, scenarios, and multiple types of
-  analysis
-- Develop insightful and charts and graphs for PowerPoint presentations
-- Build Excel dashboards and use advanced data visualization techniques
-- Go beyond the financial model to truly understand the risks and opportunities of an investment opportunity
+  - Learn advanced forms of financial analysis including ratios, rates of return, risk assessment, credit metrics, debt
+    schedules, cash flow waterfalls and more
+  - Assess the overall attractiveness of investment opportunities using financial models, scenarios, and multiple types of
+    analysis
+  - Develop insightful and charts and graphs for PowerPoint presentations
+  - Build Excel dashboards and use advanced data visualization techniques
+  - Go beyond the financial model to truly understand the risks and opportunities of an investment opportunity
 
-### Presentations
+  #### Presentations
 
-- Learn to create beautiful charts, graphs and tables in Excel
-- Build professional PowerPoint presentations and pitch decks
-- Create insightful dashboards and outputs for presentations
-- Learn how to use data visualization to get your point across
-- Impress executives and leadership teams with deep insights and impactful presentations
+  - Learn to create beautiful charts, graphs and tables in Excel
+  - Build professional PowerPoint presentations and pitch decks
+  - Create insightful dashboards and outputs for presentations
+  - Learn how to use data visualization to get your point across
+  - Impress executives and leadership teams with deep insights and impactful presentations
 
 - <a href="https://intranet.alxswe.com/certificates/YCE63nzmFc">Data Analytics Cerrtification by ALX </a>
-  <img src="./Image/Certificate 1 (2).png" alt="" srcset="">
 
-## Projects:
+    <img src="./Image/Certificate 1 (2).png" alt="" srcset="">
 
-P.S. I've been around the world and I'm preparing another one if anyone wants to join.<br><br>
+<br>
+<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 

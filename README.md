@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=ejasare&style=flat-square&color=blue" alt="my profile view counter" />
 </div>
 <br>
-<p align="center">📍Ames <br> <br> I'm <b>EricAsare</b>, A <b> Data Analyst</b> <br></p>
+<p align="center">📍Ames <br> <br> I'm <b>Eric Asare</b>, A <b> Data Analyst</b> <br></p>
 
 ### <img alt="GIF" src="./Image/statistics.gif" width="25px">My Journey into Data Analytics:
 
